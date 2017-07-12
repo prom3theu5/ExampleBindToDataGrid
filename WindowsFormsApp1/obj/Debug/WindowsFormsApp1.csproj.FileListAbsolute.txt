@@ -1,0 +1,14 @@
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TwitchLib.dll
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\websocket-sharp.dll
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TwitchLib.xml
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Prom3theu5\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
